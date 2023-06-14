@@ -8,5 +8,5 @@ As the image :
 
 Here a screenshot of the API created :
 
-![Uploading Screenshot 2023-06-14 161013.png…]()
+![Screenshot 2023-06-14 161013](https://github.com/Vegetam/AwesomePizzaAPI/assets/3587842/1fb2d218-c004-4276-a154-63202d6ed0d3)
 
