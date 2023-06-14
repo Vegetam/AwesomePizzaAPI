@@ -89,6 +89,7 @@ public class OrderController {
         return response;
     }
 
+    @Operation(summary = "Aggiornamento dello stato dell'ordine", tags = "Chef")
     @PutMapping("/chef/{orderId}")
     public ResponseEntity<String> updateChefOrderStatus(
             @PathVariable("orderId")
